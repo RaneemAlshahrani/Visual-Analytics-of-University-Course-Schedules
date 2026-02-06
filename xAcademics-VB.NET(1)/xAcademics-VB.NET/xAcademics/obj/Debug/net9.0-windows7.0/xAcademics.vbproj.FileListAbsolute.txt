@@ -1,0 +1,38 @@
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.exe
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.deps.json
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.runtimeconfig.json
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.dll
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.pdb
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.vbproj.ResolveComReference.cache
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.Form1.resources
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.Resources.resources
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.vbproj.GenerateResource.cache
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.AssemblyInfoInputs.cache
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.AssemblyInfo.vb
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.vbproj.CoreCompileInputs.cache
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.dll
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\refint\xAcademics.dll
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.pdb
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.genruntimeconfig.cache
+D:\Dropbox\KFUPM\Teaching\Term 251\SWE 316\Homeworks\HW # 1\Sample Project\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\ref\xAcademics.dll
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.exe
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.deps.json
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.runtimeconfig.json
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.dll
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\bin\Debug\net9.0-windows7.0\xAcademics.pdb
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.vbproj.ResolveComReference.cache
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.Resources.resources
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.vbproj.GenerateResource.cache
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.AssemblyInfoInputs.cache
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.AssemblyInfo.vb
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.vbproj.CoreCompileInputs.cache
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.dll
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\refint\xAcademics.dll
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.pdb
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.genruntimeconfig.cache
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\ref\xAcademics.dll
+C:\Users\96653\Downloads\xAcademics-VB.NET(1)\xAcademics-VB.NET\xAcademics\obj\Debug\net9.0-windows7.0\xAcademics.application.resources

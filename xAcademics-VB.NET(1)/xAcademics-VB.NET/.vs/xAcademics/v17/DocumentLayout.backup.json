@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\application.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\application.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\application.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\application.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\distancefeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\distancefeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\buildingcountfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\buildingcountfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\courselistfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\courselistfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\coursecountfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\coursecountfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\daysetterfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\daysetterfeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\ischedulefeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\ischedulefeature.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\department.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\department.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|c:\\users\\96653\\downloads\\xacademics-vb.net(1)\\xacademics-vb.net\\xacademics\\xacademics.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81D4532B-C42A-40B0-841E-0C78C1A085A1}|xAcademics\\xAcademics.vbproj|solutionrelative:xacademics\\xacademics.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "application.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\application.vb",
+              "RelativeDocumentMoniker": "xAcademics\\application.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\application.vb*",
+              "RelativeToolTip": "xAcademics\\application.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-23T23:06:17.462Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\application.vb",
+              "RelativeDocumentMoniker": "xAcademics\\application.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\application.vb [Design]*",
+              "RelativeToolTip": "xAcademics\\application.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-23T20:33:17.299Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseListFeature.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\CourseListFeature.vb",
+              "RelativeDocumentMoniker": "xAcademics\\CourseListFeature.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\CourseListFeature.vb",
+              "RelativeToolTip": "xAcademics\\CourseListFeature.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T17:49:12.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildingCountFeature.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\BuildingCountFeature.vb",
+              "RelativeDocumentMoniker": "xAcademics\\BuildingCountFeature.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\BuildingCountFeature.vb",
+              "RelativeToolTip": "xAcademics\\BuildingCountFeature.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T17:47:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistanceFeature.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\DistanceFeature.vb",
+              "RelativeDocumentMoniker": "xAcademics\\DistanceFeature.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\DistanceFeature.vb",
+              "RelativeToolTip": "xAcademics\\DistanceFeature.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T17:47:56.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseCountFeature.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\CourseCountFeature.vb",
+              "RelativeDocumentMoniker": "xAcademics\\CourseCountFeature.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\CourseCountFeature.vb",
+              "RelativeToolTip": "xAcademics\\CourseCountFeature.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T17:48:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DaySetterFeature.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\DaySetterFeature.vb",
+              "RelativeDocumentMoniker": "xAcademics\\DaySetterFeature.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\DaySetterFeature.vb",
+              "RelativeToolTip": "xAcademics\\DaySetterFeature.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T17:50:07.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScheduleFeature.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\IScheduleFeature.vb",
+              "RelativeDocumentMoniker": "xAcademics\\IScheduleFeature.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\IScheduleFeature.vb",
+              "RelativeToolTip": "xAcademics\\IScheduleFeature.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T19:34:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\Department.vb",
+              "RelativeDocumentMoniker": "xAcademics\\Department.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\Department.vb",
+              "RelativeToolTip": "xAcademics\\Department.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T21:40:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "xAcademics\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "xAcademics\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAA+wCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T19:46:59.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xAcademics",
+              "DocumentMoniker": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\xAcademics.vbproj",
+              "RelativeDocumentMoniker": "xAcademics\\xAcademics.vbproj",
+              "ToolTip": "C:\\Users\\96653\\Downloads\\xAcademics-VB.NET(1)\\xAcademics-VB.NET\\xAcademics\\xAcademics.vbproj",
+              "RelativeToolTip": "xAcademics\\xAcademics.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-10-24T18:41:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 753,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 411,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
