@@ -1,0 +1,9 @@
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.vbproj.AssemblyReference.cache
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.vbproj.ResolveComReference.cache
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.Form1.resources
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.vbproj.GenerateResource.cache
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.AssemblyInfoInputs.cache
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.AssemblyInfo.vb
+D:\Dropbox\KFUPM\Teaching\Term 242\SWE 316\Homeworks\HW # 1\Sample Project -\xAcademics\xAcademics\obj\Debug\net6.0-windows\xAcademics-VB.NET.vbproj.CoreCompileInputs.cache
