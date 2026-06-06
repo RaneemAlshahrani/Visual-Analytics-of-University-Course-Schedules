@@ -50,7 +50,7 @@ This project follows good object-oriented design by using:
 
 ## Screenshot
 
-###Campus Route visualization
+### Campus Route visualization
 ![Campus Route visualization](Campus-Route-Visualization.png)
 
 
