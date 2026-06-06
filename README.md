@@ -46,6 +46,6 @@ This is a good use of the **Strategy Pattern** because the application can switc
 ## Screenshot
 
 1. Tree visualization
-![Tree visualization](Tree visualization.png)
+![Tree visualization](Tree-visualization.png)
 2. Bar Chart visualization
-![Bar Chart visualization](Bar Chart visualization.png)
+![Bar Chart visualization](Bar-Chart-visualization.png)
